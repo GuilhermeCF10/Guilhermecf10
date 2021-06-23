@@ -32,6 +32,6 @@ Here are some ideas to get you started:
   <div>
   <a href = "mailto: guilhermec.fialho@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/guilherme-fialho-90b050200/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://guilhermecf10.github.io" target="_blank"><img src="https://i0.wp.com/produzdigital.com.br/wp-content/uploads/2017/05/icone-sites1.png?fit=438%2C439&ssl=1" height="30" width="40" target="_blank"></a>
+  <a href="https://guilhermecf10.github.io" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Gold_medal_icon_%28G_initial%29.svg/1200px-Gold_medal_icon_%28G_initial%29.svg.png" height="30" width="40" target="_blank"></a>
   <a href="https://instagram.com/guilhermec.fialho" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
