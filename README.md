@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## Eu sou o Guilherme Fialho <img align="center" alt="Rafa-yoda" height="60" width="80" src="https://media.tenor.com/images/5921a2d48c5bd58023e4432fbb85d88c/tenor.gif">
-<a href="https://github.com/RafaBallerini">
+## Eu sou o Guilherme Fialho 
+<a href="https://github.com/guilhermecf10">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=guilhermecf10&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=guilhermecf10&layout=compact&langs_count=8&theme=dracula"/>
 <div>
@@ -32,6 +32,6 @@ Here are some ideas to get you started:
   <div>
   <a href = "mailto: guilhermec.fialho@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/guilherme-fialho-90b050200/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://guilhermecf10.github.io" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Gold_medal_icon_%28G_initial%29.svg/1200px-Gold_medal_icon_%28G_initial%29.svg.png" height="30" width="40" target="_blank"></a>
+  <a href="https://guilhermecf10.github.io" target="_blank"><img src="https://image.flaticon.com/icons/png/512/100/100277.png" height="30" width="40" target="_blank"></a>
   <a href="https://instagram.com/guilhermec.fialho" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
