@@ -26,7 +26,7 @@ Here are some ideas to get you started:
   <img align="center" alt="Gui-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
   
-<h1><br>Works on <img src="https://avatars.githubusercontent.com/u/85324845?s=200&v=4" alt="Serra Jr. Engenharia"/><br></h1>
+<h1><br>Works on <img src="https://avatars.githubusercontent.com/u/85324845?s=200&v=4" height="32" width="32" alt="Serra Jr. Engenharia"/><br></h1>
  
 <div><br>
   
