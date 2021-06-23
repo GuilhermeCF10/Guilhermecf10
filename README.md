@@ -26,7 +26,6 @@ Here are some ideas to get you started:
   <img align="center" alt="Gui-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
   
-  ##
  
 <div> 
   
@@ -35,12 +34,5 @@ Here are some ideas to get you started:
   <a href = "mailto:guilhermec.fialho@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  <a href="https://guilhermecf10.github.io" target="_blank"><img src="https://img.shields.io/badge/-Site-008000?style=for-the-badge&logo=facebookl&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/guilherme-fialho-90b050200/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-
-
-  
-  <div>
-  <a href = "mailto: guilhermec.fialho@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/guilherme-fialho-90b050200/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://guilhermecf10.github.io" target="_blank"><img src="https://image.flaticon.com/icons/png/512/100/100277.png" height="30" width="40" target="_blank"></a>
-  <a href="https://instagram.com/guilhermec.fialho" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ 
 </div>
