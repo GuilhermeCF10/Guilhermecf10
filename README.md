@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div style="background-color: #cdcdcd">
+<div style="background-color: #000000">
 
 ## Olá 👋! Eu sou o Guilherme Fialho 
  <div style="display: flex">
