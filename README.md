@@ -12,6 +12,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<div style="background-color: #cdcdcd">
+
 ## Olá 👋! Eu sou o Guilherme Fialho 
  <div style="display: flex">
   <a href="https://github.com/guilhermecf10">
@@ -37,3 +39,6 @@ Here are some ideas to get you started:
   <a href="https://www.linkedin.com/in/guilherme-fialho-90b050200/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
 </div>
+  
+  
+ </div>
