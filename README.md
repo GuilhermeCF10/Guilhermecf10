@@ -29,8 +29,8 @@ Here are some ideas to get you started:
     locale - set the language in the card (e.g. cn, de, es, etc.)
     border_radius - Corner rounding on the card_
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guilhermecf10&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermecf10&layout=compact&langs_count=16&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guilhermecf10&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermecf10&layout=compact&langs_count=16&theme=blue-green"/>
 </div>
  
 <div><br>
