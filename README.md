@@ -35,16 +35,27 @@ Here are some ideas to get you started:
   <img align="center" alt="Gui-React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
   <img align="center" alt="Gui-React-Native" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
   <img align="center" alt="Gui-NodeJS" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
+  <img align="center" alt="Gui-MYSQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
+ 
   
 </div>
 
  
 <div><br>
- <a href="https://www.linkedin.com/in/guilherme-fialho-90b050200/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- <a href="https://guilhermecf10.github.io" target="_blank"><img src="https://img.shields.io/badge/Website-%2336465D.svg?&style=for-the-badge&logo=Tumblr&logoColor=white target="_blank"></a>
+ <a href="https://www.linkedin.com/in/guilherme-fialho-90b050200/" target="_blank">
+   <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+ </a> 
+ <a href="https://guilhermecf10.github.io" target="_blank">
+   <img src="https://img.shields.io/badge/Website-%2336465D.svg?&style=for-the-badge&logo=Tumblr&logoColor=white" target="_blank">
+ </a>
  
- <a href="https://discord.gg/4ns4dbYWT2" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:guilhermec.fialho@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+ <a href="https://discord.gg/4ns4dbYWT2" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank">
+ </a> 
+                                                                                                                           
+ <a href="mailto:guilhermec.fialho@gmail.com">
+   <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+ </a>
  
   
 </div>
