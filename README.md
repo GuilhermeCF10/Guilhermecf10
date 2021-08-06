@@ -37,8 +37,7 @@ Here are some ideas to get you started:
   <img align="center" alt="Gui-NodeJS" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
   
 </div>
-  
-  ##
+
  
 <div><br>
  <a href="https://www.linkedin.com/in/guilherme-fialho-90b050200/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
