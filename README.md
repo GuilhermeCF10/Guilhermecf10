@@ -46,7 +46,7 @@ Here are some ideas to get you started:
    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
  </a> 
  <a href="https://guilhermecf10.github.io" target="_blank">
-   <img src="https://img.shields.io/badge/Website-%2336465D.svg?&style=for-the-badge&logo=Tumblr&logoColor=white" target="_blank">
+   <img src="https://img.shields.io/badge/Website-%01fe87.svg?&style=for-the-badge&logo=Tumblr&logoColor=white" target="_blank">
  </a>
  
  <a href="https://discord.gg/4ns4dbYWT2" target="_blank">
