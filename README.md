@@ -43,3 +43,10 @@ Here are some ideas to get you started:
  
   
 </div>
+
+
+JSX          28 hrs 31 mins  ████████████████████████▒   97.99 % 
+JavaScript   27 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.59 % 
+JSON         4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
+SCSS         2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
+
