@@ -23,9 +23,7 @@ Here are some ideas to get you started:
 </div>
   
   ##
-  <div class="text-white bg-gray-dark mb-2">
-  .text-white on .bg-gray-dark
- </div>
+  
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
  
 <div><br>
@@ -47,10 +45,4 @@ Here are some ideas to get you started:
  
   
 </div>
-
-
-JSX          28 hrs 31 mins  ████████████████████████▒   97.99 % 
-JavaScript   27 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.59 % 
-JSON         4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
-SCSS         2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
 
