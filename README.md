@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 
-## Olá 👋! Eu sou o Guilherme Fialho 
+## Hi 👋! I am Guilherme Fialho 
  <div style={flex:1, background-color: "#000"}>
   <a href="https://github.com/guilhermecf10">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guilhermecf10&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
