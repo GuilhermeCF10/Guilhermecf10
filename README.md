@@ -41,7 +41,8 @@ Here are some ideas to get you started:
  
 <div><br>
  <a href="https://www.linkedin.com/in/guilherme-fialho-90b050200/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- <a href="https://guilhermecf10.github.io" target="_blank"><img src="https://img.shields.io/badge/-Meu Site-008000?style=for-the-badge&logo=facebookl&logoColor=white" target="_blank"></a>
+ <a href="https://guilhermecf10.github.io" target="_blank"><img src="https://img.shields.io/badge/Website-%2336465D.svg?&style=for-the-badge&logo=Tumblr&logoColor=white target="_blank"></a>
+ 
  <a href="https://discord.gg/4ns4dbYWT2" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:guilhermec.fialho@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  
