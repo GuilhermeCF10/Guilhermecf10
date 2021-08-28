@@ -19,6 +19,8 @@ Here are some ideas to get you started:
   <a href="https://github.com/guilhermecf10">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guilhermecf10&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermecf10&layout=compact&langs_count=16&theme=blue-green"/>
+   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=guilhermecf10"/>
+   
   </a>
 </div>
   
@@ -40,6 +42,10 @@ Here are some ideas to get you started:
   <img align="center" alt="Gui-NodeJS" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
   <img align="center" alt="Gui-ExpressJS" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white">
   <img align="center" alt="Gui-MYSQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
+  <img align="center" alt="Gui-Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+  <img align="center" alt="Gui-Selenium" src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white">
+   
+   	
  </a>
   
 </div>
