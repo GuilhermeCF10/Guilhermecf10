@@ -19,7 +19,7 @@ Here are some ideas to get you started:
   <a href="https://github.com/guilhermecf10">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guilhermecf10&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
    <!--img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermecf10&layout=compact&langs_count=16&theme=blue-green"/-->   
-   <img src="https://github-readme-streak-stats.herokuapp.com/?user=guilhermecf10-pattalam&theme=dark" width="48%" >
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=guilhermecf10&theme=dark" width="48%" >
   </a>
 </div>
   
